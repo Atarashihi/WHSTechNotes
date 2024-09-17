@@ -7,3 +7,6 @@ Long ago in a distant land, I AKU unleashed an unspeakable evil. Until a foolish
 
 # September 10, 2024
 Hi Miss, How are youy doing on this evening? Oh, that's nice. Well, ive been great too, thanks for asking!
+
+# September 17, 2024
+This is a free week.
