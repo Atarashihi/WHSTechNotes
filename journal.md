@@ -10,3 +10,6 @@ Hi Miss, How are youy doing on this evening? Oh, that's nice. Well, ive been gre
 
 # September 17, 2024
 This is a free week.
+
+# September 24, 2024
+Following instructions is important to coding because rules and directions are what code is as a whole. If you give the wrong instructions when coding, your code wont work. And if you dont follow instructions, you cant give decent instructions to be followed. 
