@@ -13,3 +13,6 @@ This is a free week.
 
 # September 24, 2024
 Following instructions is important to coding because rules and directions are what code is as a whole. If you give the wrong instructions when coding, your code wont work. And if you dont follow instructions, you cant give decent instructions to be followed. 
+
+# October 4, 2024
+computer science allows me to use clocks programmed to follow the time and I also use my phone and chromebook daily. Without it I would have no way of telling time or interactiong with the outside world. Also i would be failing math w/o a calculator.
