@@ -22,3 +22,6 @@ I researched game designer. Game developers create systems for the game as well 
 
 # October 15, 2024
 coding can improve problem solving skills by requiring oneself to fix problems in thier code. coding is required in other fields that use any type of computer technology. (EX: heart monitors in hospitals.) Coding can support creativity by forcing someone to think outside the box to get computers to do things for them. (EX: thermometers for finding tempurature.) 
+
+# October 28, 2024
+tehcnology can effect the voting process by making voting more accesible. but, it can also hurt elections when problems in the system change the true number of votes.
