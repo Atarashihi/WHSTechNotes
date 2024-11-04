@@ -25,3 +25,6 @@ coding can improve problem solving skills by requiring oneself to fix problems i
 
 # October 28, 2024
 tehcnology can effect the voting process by making voting more accesible. but, it can also hurt elections when problems in the system change the true number of votes.
+
+# November 4, 2024
+It's important protect your info online becuase keeping your info safe can prevent identity theft, fraud, and other things that could lead to reputational or financial harm. To protect your info online you can lock your info behind a password, two factor authentication/ and be more mindful about what you share online. I have not shared anything personal online. You can balance collaboration and safety by being mindful of what you share, using privacy settings, and being aware of potential risks of sharing data.
