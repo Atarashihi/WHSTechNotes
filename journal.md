@@ -28,3 +28,7 @@ tehcnology can effect the voting process by making voting more accesible. but, i
 
 # November 4, 2024
 It's important protect your info online becuase keeping your info safe can prevent identity theft, fraud, and other things that could lead to reputational or financial harm. To protect your info online you can lock your info behind a password, two factor authentication/ and be more mindful about what you share online. I have not shared anything personal online. You can balance collaboration and safety by being mindful of what you share, using privacy settings, and being aware of potential risks of sharing data.
+
+# November 12, 2024
+The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine in an effert to reinstate it into russian territory. This war could include the use off missiles and nuclear warheads aimed and detonated by computer programs. Like the computers used to remotely aim missiles ore the contraption that allows nukes to detonate above the ground.
+ Computers can also be used to address large issues like this in the future. Future wars can be brought to light by fast movement of information through the internet. like news stations getting news of trageties during war time like the people hurt by the war.
