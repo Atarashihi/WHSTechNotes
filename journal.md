@@ -32,3 +32,6 @@ It's important protect your info online becuase keeping your info safe can preve
 # November 12, 2024
 The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine in an effert to reinstate it into russian territory. This war could include the use off missiles and nuclear warheads aimed and detonated by computer programs. Like the computers used to remotely aim missiles ore the contraption that allows nukes to detonate above the ground.
  Computers can also be used to address large issues like this in the future. Future wars can be brought to light by fast movement of information through the internet. like news stations getting news of trageties during war time like the people hurt by the war.
+
+# November 18, 2024
+ Advances in agricultural technologies make4s food ore affordable by reducing labor and making transportation of goods easier, ruducing thier cost completely. For example, something simple like automatic sprinklers, or something complex like a automatic harvester. And a truck to transport crops to places where people can go to buy them. Although, using advances in technologies inappropriately can have serois drawbacks; like usibg this tecvhnology irresponibly can cause harm to the land & crops.
