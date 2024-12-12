@@ -36,5 +36,8 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 # November 18, 2024
  Advances in agricultural technologies make4s food ore affordable by reducing labor and making transportation of goods easier, ruducing thier cost completely. For example, something simple like automatic sprinklers, or something complex like a automatic harvester. And a truck to transport crops to places where people can go to buy them. Although, using advances in technologies inappropriately can have serois drawbacks; like usibg this tecvhnology irresponibly can cause harm to the land & crops.
 
-# December 6, 2024
+# December 2, 2024
  Im exited about the upcoming rise of enhanced virtual reality because of it's uses in training possibilites. Training that could be used for improved practices and equipment for sport athletes in general. Although, People could begin to rely on virtual realty too much as they may enjoy it more than thier real lives.
+
+# December 9, 2024
+ 
