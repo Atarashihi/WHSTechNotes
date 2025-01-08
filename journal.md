@@ -40,4 +40,6 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
  Im exited about the upcoming rise of enhanced virtual reality because of it's uses in training possibilites. Training that could be used for improved practices and equipment for sport athletes in general. Although, People could begin to rely on virtual realty too much as they may enjoy it more than thier real lives.
 
 # December 9, 2024
- 
+
+# January 8, 2025
+ In the first semester of this class i really apprecitated the freesom the students were given. this class made coding feel more like a calming hobby rather than a class.This sem,ester i'd really like to focus on python insteasd of block coding as i found it boring. Im interested in pursuing both python and unity certification. as i would like to go into game development.
