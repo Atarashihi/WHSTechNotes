@@ -43,3 +43,6 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 
 # January 8, 2025
  In the first semester of this class i really apprecitated the freesom the students were given. this class made coding feel more like a calming hobby rather than a class.This sem,ester i'd really like to focus on python insteasd of block coding as i found it boring. Im interested in pursuing both python and unity certification. as i would like to go into game development.
+
+# January 22, 2025
+ I think government intervention impacts technology companies and their users negetively because the people in the government ignore the serios issues.
