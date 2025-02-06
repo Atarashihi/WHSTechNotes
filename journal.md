@@ -46,3 +46,9 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 
 # January 22, 2025
  I think government intervention impacts technology companies and their users negetively because the people in the government ignore the serios issues.
+
+# Febuary 3, 2025
+  Coding flaws and miscomunication in software can lead to accidents by limiting a pilots control of an aircraft. 
+ For example, if a faliure happens in the plane and the pilot cant use the controls to adapt to it, the plane could fall out the sky.
+  Computer algorithims prevent collisions by using radar to locate and direct the planes. Failiurs in the radar technology could give innacurate readings 
+ which could cause innacurate instructions, that could cause a plane collision.
