@@ -52,3 +52,9 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
  For example, if a faliure happens in the plane and the pilot cant use the controls to adapt to it, the plane could fall out the sky.
   Computer algorithims prevent collisions by using radar to locate and direct the planes. Failiurs in the radar technology could give innacurate readings 
  which could cause innacurate instructions, that could cause a plane collision.
+
+# February 11, 2025
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
