@@ -58,3 +58,6 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
+
+# February 18, 2025
+ Last week, i learned about my phones alarm when the charging port is obstructed. It woke me up in the middle with an an alert about something in my charging port and forced me to stay up for an hour fixing it. Now i know i wont have to guesse.
