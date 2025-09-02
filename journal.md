@@ -64,3 +64,6 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 
 # February 24, 2025
  Technology can be used to stay up to date on modern language by giving them the ability to search what new slang terms mean. Integrating modern language into learning tools could make complicated termsv eaisier for younger generations to understand. I think slang is left unchanged becuase it allows creativity to shine to make sense of difficult languages. Misunderstandings can impact interactions between people if its used inappropriatly.
+
+# September 2, 2025
+ I beleive the cell phone ban was not beneficial for students or teachers. The state of texas doing this withoutb regarding the massive school shooting problem the state was foolish, and the students grades wont improve either. As a student, I find that the only people who ever learn are the people who want to learn. And the students who dont want to learn will either use their phones anyway, or they will find another way to use distract themselves.
