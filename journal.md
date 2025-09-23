@@ -67,3 +67,6 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 
 # September 2, 2025
  I beleive the cell phone ban was not beneficial for students or teachers. The state of texas doing this withoutb regarding the massive school shooting problem the state was foolish, and the students grades wont improve either. As a student, I find that the only people who ever learn are the people who want to learn. And the students who dont want to learn will either use their phones anyway, or they will find another way to use distract themselves.
+
+# September 22, 2025
+ I think working in a virtual store is beneficail because it open up more jobs. You see,  many people have been working completely virtually for years. And virtual stores will just add a more accessible mean for income for many people. For example, a person who cant walkcan wqork at thier computer fromn home. Or, a deaf individual
