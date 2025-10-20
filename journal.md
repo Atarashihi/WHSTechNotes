@@ -72,4 +72,11 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
  I think working in a virtual store is beneficail because it open up more jobs. You see,  many people have been working completely virtually for years. And virtual stores will just add a more accessible mean for income for many people. For example, a person who cant walkcan wqork at thier computer fromn home. Or, a deaf individual
 
 # October 14, 2025
- My prompy was for an interactive jorror story about jewish struggles during WW2. Heresa the link : https://shadowsofhistory.my.canva.site/wwii-jewish-survivor-interactive-horror-story 
+ My prompy was for an interactive jorror story about jewish struggles during WW2. Heresa the link : https://shadowsofhistory.my.canva.site/wwii-jewish-survivor-interactive-horror-story
+
+# October 20, 2025
+| Name        | Class       | Seat        |
+| ----------- | ----------- | ----------- |
+| Franklin    | Second      | 91A         |
+| Hardeep     | Third       | 61F         |
+| Maria       | First       | 35B         |
