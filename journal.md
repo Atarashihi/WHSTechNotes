@@ -80,3 +80,11 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 | Franklin    | Second      | 91A         |
 | Hardeep     | Third       | 61F         |
 | Maria       | First       | 35B         |
+
+
+# October 30, 2025
+| Name        | Main Dish       | Dessert            |
+| ----------- | --------------- | ------------------ |
+| Fiona       | Gado Gado       | Creme Brulee       |
+| Tobias      | Shrimp Ceviche  | French Apple Cake  |
+| Leanne      | Beef Wellington | Raspberry Tiramasu |
