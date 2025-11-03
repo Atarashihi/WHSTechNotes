@@ -88,3 +88,7 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
 | Fiona       | Gado Gado       | Creme Brulee       |
 | Tobias      | Shrimp Ceviche  | French Apple Cake  |
 | Leanne      | Beef Wellington | Raspberry Tiramasu |
+
+# November 3, 2025
+ SNAP being shut down is a big deal because people from lowbudget neighborhoods or people with low income wont be able to afford food.
+The internet could help people find things like food banks or other food drives in thier area. Although, people could have trouble affording the internet or contact with others. I would create a device called the FLDSMDF. And this miracoulous machine would turn water, into food.
