@@ -95,3 +95,5 @@ The internet could help people find things like food banks or other food drives 
 
 # November 10, 2025
  
+# November 17, 2025
+ Yes, but only if I have no assignments to do over the break.
