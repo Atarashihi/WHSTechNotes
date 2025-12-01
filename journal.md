@@ -97,3 +97,6 @@ The internet could help people find things like food banks or other food drives 
  
 # November 17, 2025
  Yes, but only if I have no assignments to do over the break.
+
+# December 1, 2025
+ I'll be going pver the job details of a drone programmer. Drone programmers write code to control drone functions such as navigastion photography and mapping. Drone programmers are paid $137,441 a year on average. Required education includes a Bachelors with certifications in things like the FAA Part 107 remote pilot certificate. I wouldnt want thisa job in the future because while it does seem interesting, i have other paths im already interested in.
