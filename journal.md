@@ -72,7 +72,7 @@ The Ulkraine - Russian war is a war effort from russia trying to invade Ukraine 
  I think working in a virtual store is beneficail because it open up more jobs. You see,  many people have been working completely virtually for years. And virtual stores will just add a more accessible mean for income for many people. For example, a person who cant walkcan wqork at thier computer fromn home. Or, a deaf individual
 
 # October 14, 2025
- My prompy was for an interactive jorror story about jewish struggles during WW2. Heresa the link : https://shadowsofhistory.my.canva.site/wwii-jewish-survivor-interactive-horror-story
+ My prompt was for an interactive horror story about jewish struggles during WW2. Here is the link : https://shadowsofhistory.my.canva.site/wwii-jewish-survivor-interactive-horror-story
 
 # October 20, 2025
 | Name        | Class       | Seat        |
@@ -100,3 +100,6 @@ The internet could help people find things like food banks or other food drives 
 
 # December 1, 2025
  I'll be going pver the job details of a drone programmer. Drone programmers write code to control drone functions such as navigastion photography and mapping. Drone programmers are paid $137,441 a year on average. Required education includes a Bachelors with certifications in things like the FAA Part 107 remote pilot certificate. I wouldnt want thisa job in the future because while it does seem interesting, i have other paths im already interested in.
+
+# December 8, 2025
+ I believe the self driving cars might not recognize the bus stop signs due to the flashing lights on the stop signs reeflecting in the cameras on the car. Or the flashing lights are being treated like stop lights, where you only need to pause for a moment. To fix this I would have the car determine if the stop sign was connected to a bus or the ground or even a street light. The sensors must be determining that their is a stop sign, and not what kind of stop sign it is. Self driving cars can only be uisable when they have a full understaning of the world around them.
