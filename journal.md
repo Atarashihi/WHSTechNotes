@@ -103,3 +103,9 @@ The internet could help people find things like food banks or other food drives 
 
 # December 8, 2025
  I believe the self driving cars might not recognize the bus stop signs due to the flashing lights on the stop signs reeflecting in the cameras on the car. Or the flashing lights are being treated like stop lights, where you only need to pause for a moment. To fix this I would have the car determine if the stop sign was connected to a bus or the ground or even a street light. The sensors must be determining that their is a stop sign, and not what kind of stop sign it is. Self driving cars can only be uisable when they have a full understaning of the world around them.
+
+# January 6, 2026
+ Over the break i used my phone for entertainment and communication. I also used a Vehicle for transportaion. I also used various websites to make purchases for the holiday season.
+
+# January 12, 2026
+Autcraft was created due to abuse of mentally challeneged individuals online. It is impoertyant to have mederation online due to unknind and insensitive individuals making the internet an unsafe and dangerous place.
