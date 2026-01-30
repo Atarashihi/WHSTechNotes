@@ -112,3 +112,6 @@ Autcraft was created due to abuse of mentally challeneged individuals online. It
 
 # January 20, 2026
  Technology gives us many ways to both communicate and share ideals. One way technology can be helpful is by helping to spread awareness. This is important because it allows people to see real life problems from afar and allows others to seek others like them to see, relate, and learnf from thier struggles. An Example of this could be how during the Arab spring, platforms like facebook, X, and Youtube allowed activists to coordinate, document abuses, and spread thier messages globally, Fostering Collective action for justice. And thanks to tachnology, we can work together and be greater.
+
+# January 29, 2026
+ The test was the MAP test and i feel good about my performance because i scored within the target goals. One thing i did well was the reading section, but i struggled with the language section. I think test prep would help me because i could use practice for language. I have reached my goal score and my next step is to score higher next time.
